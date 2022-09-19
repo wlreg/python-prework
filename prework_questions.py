@@ -5,9 +5,9 @@
 ### USERNAME is the input of the function
 
 def hello_name(user_name):
-    print("hello_" + user_name.upper() + "!")
+    print("hello_" + user_name + "!")
 
-hello_name('username')
+hello_name('USERNAME')
 
 # QUESTION 2
 ## Write a python function, first_odds that prints the odds numbers from
